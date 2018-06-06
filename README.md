@@ -17,12 +17,15 @@ by these awesome backers.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/vue-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/vue-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/vue-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/vue-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/vue/badges/version.svg)](https://anaconda.org/conda-forge/vue)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/vue/badges/downloads.svg)](https://anaconda.org/conda-forge/vue)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-vue-green.svg)](https://anaconda.org/conda-forge/vue) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/vue.svg)](https://anaconda.org/conda-forge/vue) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/vue.svg)](https://anaconda.org/conda-forge/vue) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/vue.svg)](https://anaconda.org/conda-forge/vue) |
 
 Installing vue
 ==============
