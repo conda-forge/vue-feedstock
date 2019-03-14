@@ -1,6 +1,6 @@
 {% set name = "vue" %}
-{% set version = "2.6.8" %}
-{% set sha256 = "c09c2f3edb076e3263b012e0e4a8e27889025a2c9edf1e1d8029f434d7cf5fdc" %}
+{% set version = "2.6.9" %}
+{% set sha256 = "5b0e88b1bb6d8acbdf17e5ecfddba00bc1439a081d5093795e23351fa5d8271b" %}
 
 package:
   name: {{ name|lower }}
