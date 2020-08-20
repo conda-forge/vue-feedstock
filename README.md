@@ -5,7 +5,7 @@ Home: https://github.com/vuejs/vue
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
