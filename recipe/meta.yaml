@@ -1,6 +1,6 @@
 {% set name = "vue" %}
-{% set version = "2.6.11" %}
-{% set sha256 = "7ee4d5e4ec7d44fb9918ecb074ad7701eb0bcb3a840cee3c2924734ef3fd888a" %}
+{% set version = "2.6.14" %}
+{% set sha256 = "e2bfe4c1ed8c6a486691f0736e96e1f1cc16dd32f36ea82d2c9767cc05122dc1" %}
 
 package:
   name: {{ name|lower }}
@@ -20,20 +20,20 @@ build:
 requirements:
   build:
     - nodejs
-  
+
 test:
   commands:
     - npm list -g vue
   requires:
     - nodejs
-   
+
 
 about:
   home: https://github.com/vuejs/vue
   license: MIT
   license_family: MIT
   license_file: LICENSE
-  summary: 'A progressive, incrementally-adoptable JavaScript framework for building UI on the web.'
+  summary: A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
   description: |
     Vue.js is an MIT-licensed open source project. It's an independent project 
     with its ongoing development made possible entirely thanks to the support 
